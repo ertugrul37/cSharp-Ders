@@ -1,0 +1,33 @@
+D:\cemal\WindowsFormsApplication31\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe.config
+D:\cemal\WindowsFormsApplication31\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe
+D:\cemal\WindowsFormsApplication31\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.pdb
+D:\cemal\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csprojResolveAssemblyReference.cache
+D:\cemal\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form1.resources
+D:\cemal\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Properties.Resources.resources
+D:\cemal\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csproj.GenerateResource.Cache
+D:\cemal\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.exe
+D:\cemal\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.pdb
+D:\cemal\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form2.resources
+D:\cemal\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form3.resources
+D:\cemal\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form4.resources
+D:\cemal\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form5.resources
+C:\Users\Hitit\Desktop\WindowsFormsApplication31\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe.config
+C:\Users\Hitit\Desktop\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.exe
+C:\Users\Hitit\Desktop\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.pdb
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\C# DERS\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe.config
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\C# DERS\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.exe
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\C# DERS\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.pdb
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\C# DERS\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\C# DERS\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.pdb
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\C# DERS\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csprojResolveAssemblyReference.cache
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\C# DERS\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form1.resources
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\C# DERS\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form2.resources
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\C# DERS\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form3.resources
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\C# DERS\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form4.resources
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\C# DERS\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form5.resources
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\C# DERS\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form6.resources
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\C# DERS\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Properties.Resources.resources
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\C# DERS\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csproj.GenerateResource.Cache
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\C# DERS\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form7.resources
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\C# DERS\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form8.resources
+C:\Users\Hitit\Desktop\YAZILIM DERSLERİ\C# DERS\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form9.resources

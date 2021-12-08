@@ -1,0 +1,8 @@
+﻿The thread 0x1fec has exited with code 0 (0x0).
+'WindowsFormsApplication31.vshost.exe' (CLR v4.0.30319: WindowsFormsApplication31.vshost.exe): Loaded 'D:\cemal\WindowsFormsApplication31\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe'. Symbols loaded.
+'WindowsFormsApplication31.vshost.exe' (CLR v4.0.30319: WindowsFormsApplication31.vshost.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Accessibility\v4.0_4.0.0.0__b03f5f7f11d50a3a\Accessibility.dll'. Cannot find or open the PDB file.
+The thread 0x1cac has exited with code 0 (0x0).
+The thread 0x1ed0 has exited with code 0 (0x0).
+The thread 0x2a8 has exited with code 0 (0x0).
+The program '[5520] WindowsFormsApplication31.vshost.exe: Program Trace' has exited with code 0 (0x0).
+The program '[5520] WindowsFormsApplication31.vshost.exe' has exited with code 0 (0x0).
